@@ -1,8 +1,7 @@
-
 # Running Jupyter Notebooks Locally - Lab
 
 ## Introduction
-Now that we have had an introduction to the command line, have seen how to clone GitHub repos to our local machine (our computer), and have seen some common Jupyter Notebook operations, it's time to put our skills to the test! If you're unfamiliar with the concept of variables, don't worry. Just follow along with the instructions - we'll talk about variables and data types much more in the next few lessons!
+Now that we have had an introduction to the command line, have seen how to clone GitHub repos to our local machine (our computer), and have seen some common Jupyter Notebook operations, it's time to put our skills to the test!
 
 ## Objectives
 You will be able to:
@@ -40,6 +39,12 @@ Next, like the above, reassign the `flatiron_mantra` variable with the string `"
 flatiron_mantra = None
 flatiron_mantra
 ```
+
+Add a new markdown cell below this one and type `### This is a new header`
+
+Now add a new code cell below this one and write whatever code you want to write.
+
+As you can see, this works just the same as editing Jupyter notebooks using cloud tools, only now it's on your computer.
 
 ## Summary
 Great work! We are well on our way to mastering Jupyter notebooks! We reviewed using the command line and `git clone`, running cells, and checking our outputs.
