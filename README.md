@@ -13,7 +13,7 @@ You will be able to:
 ## Setup
 
 Remember from the last lesson, you need to:
-1. Click on the "GitHub" logo in the top right of the Canvas Assignment (go back to the previous page if you already loaded the Lab in Illumidesk!)
+1. Click on the "GitHub" logo in the top right of the Canvas Assignment (go back to the previous page if you already loaded the Lab in SaturnCloud!)
 2. Fork the repository on GitHub so you have your own copy there
 3. Copy the URL of your repository
 4. Open a terminal window (terminal on a Mac, Git Bash on Windows)
