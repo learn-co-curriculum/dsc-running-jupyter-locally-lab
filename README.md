@@ -48,3 +48,4 @@ As you can see, this works just the same as editing Jupyter notebooks using clou
 
 ## Summary
 Great work! We are well on our way to mastering Jupyter notebooks! We reviewed using the command line and `git clone`, running cells, and checking our outputs.
+dsc-running-jupyter-locally-lab
